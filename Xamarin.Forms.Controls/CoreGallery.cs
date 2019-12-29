@@ -291,6 +291,7 @@ namespace Xamarin.Forms.Controls
 				new GalleryPageFactory(() => new MemoryLeakGallery(), "Memory Leak"),
 				new GalleryPageFactory(() => new Issues.A11yTabIndex(), "Accessibility TabIndex"),
 				new GalleryPageFactory(() => new FontImageSourceGallery(), "Font ImageSource"),
+				new GalleryPageFactory(() => new ExpanderGallery(), "Expander Gallery"),
 				new GalleryPageFactory(() => new IndicatorsSample(), "Indicator Gallery"),
 				new GalleryPageFactory(() => new CarouselViewGallery(), "CarouselView Gallery"),
 				new GalleryPageFactory(() => new CarouselViewCoreGalleryPage(), "CarouselView Core Gallery"),
